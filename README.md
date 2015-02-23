@@ -1,1 +1,1 @@
-* A little experimental project to explore mvc in Qt *
+# A little experimental project to explore mvc in Qt 
