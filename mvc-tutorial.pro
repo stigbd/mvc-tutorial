@@ -8,14 +8,14 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Mvc-tutorial
+TARGET = mvc-tutorial
 TEMPLATE = app
 
 
-SOURCES += main.cpp \
-    mymodel.cpp
+SOURCES += src/main.cpp \
+    src/mymodel.cpp
 
 HEADERS  += \
-    mymodel.h
+    src/mymodel.h
 
 FORMS    +=
