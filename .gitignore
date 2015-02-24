@@ -1,6 +1,7 @@
 #QtCreator project files
-Makefile*
 *.pro.user
 =======
 *.pro.user*
 *~
+
+build
